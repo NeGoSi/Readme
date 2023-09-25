@@ -2,5 +2,7 @@
 
 mi primer repositorio
 
-I'm sleepy
-I'm hungry
+juego futbol amateur
+tengo un toc que me impide realizar cosas sin un orden espesifico
+me gusta cocinar
+
